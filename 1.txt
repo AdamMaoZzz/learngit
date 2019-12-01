@@ -1,7 +1,6 @@
 and then new time is: 9:55
-
 now we write a new time:11.29 ; 9:48
-
 Git is a version control system.
 Git is free software.
 Kkk+Zzz~~
+and i need add 1.txt in git
